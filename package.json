@@ -1,0 +1,67 @@
+{
+  "_from": "embedcord",
+  "_id": "embedcord@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-DfXFmmD7Bv6CXsW0jxtpLWqAGgorbnZJR+EKyn/tui+QNXWVPo9XcPIm2IkLYTsRcujbVyqlKXZeeVREls682g==",
+  "_location": "/embedcord",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "embedcord",
+    "name": "embedcord",
+    "escapedName": "embedcord",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/embedcord/-/embedcord-2.0.0.tgz",
+  "_shasum": "f32b9dd49ce69624173b2dac638d616d3fb38036",
+  "_spec": "embedcord",
+  "_where": "C:\\Users\\Utente\\Desktop\\K-Studios\\DiscordBot\\SuperBotv3.0",
+  "author": {
+    "name": "INEX07"
+  },
+  "bugs": {
+    "url": "https://github.com/INEX07/embedcord/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Embed builder package for discord.",
+  "homepage": "https://github.com/INEX07/embedcord#readme",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "eris",
+    "discord-tnt",
+    "embed",
+    "discord-embed",
+    "discord-embed-builder",
+    "richembed",
+    "messageembed",
+    "embedcord",
+    "eris-rich-embed",
+    "discord.hook"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "embedcord",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INEX07/embedcord.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "dotenv": "^8.2.0",
+    "random-puppy": "^1.1.0"
+  }
+}
